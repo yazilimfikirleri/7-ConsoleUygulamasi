@@ -1,2 +1,2 @@
-# 7-ConsoleUygulamasi
-Console örnek uygulaması
+# 7-ConsoleOrnekUygulama
+C# console örnek uygulama
